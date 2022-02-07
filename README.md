@@ -13,8 +13,10 @@ Powerpoint
 
 --
 Project:
-Inspiration and direction for this project is from AbsentData.com. The full workshop is located: https://www.youtube.com/watch?v=iwUli5gIcU0
-The solution included provided included all python code. The Powerpoint presentation is something I've created as an example of how I would present findings.
+Inspiration and direction for this project is from AbsentData.com. 
+The full workshop describing the Python code is located: https://www.youtube.com/watch?v=iwUli5gIcU0
+
+The Powerpoint presentation is something I've created as an example of how I would present findings.
 The project took around 6 hours to complete including the preparation of the report. 
 
 
